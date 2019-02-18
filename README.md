@@ -1,2 +1,2 @@
-My app
-This is myapp
+Hello friends!!
+This is first myapp!!
